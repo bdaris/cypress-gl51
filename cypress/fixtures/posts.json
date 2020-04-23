@@ -1,0 +1,177 @@
+{
+  "articles": [
+    {
+      "title": "aoeu",
+      "slug": "aoeu-y46kox",
+      "body": "aoeu",
+      "createdAt": "2020-04-23T01:46:03.241Z",
+      "updatedAt": "2020-04-23T01:46:03.241Z",
+      "tagList": [],
+      "description": "aoeu",
+      "author": {
+        "username": "fusername",
+        "bio": "hello world",
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "aoeu",
+      "slug": "aoeu-s68vzp",
+      "body": "aoeu",
+      "createdAt": "2020-04-23T01:44:08.679Z",
+      "updatedAt": "2020-04-23T01:44:08.679Z",
+      "tagList": [
+        "butt"
+      ],
+      "description": "aoeu",
+      "author": {
+        "username": "fusername",
+        "bio": "hello world",
+        "image": "",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Test",
+      "slug": "test-2wmbuq",
+      "body": "Test2",
+      "createdAt": "2020-04-23T01:37:42.398Z",
+      "updatedAt": "2020-04-23T01:37:42.398Z",
+      "tagList": [],
+      "description": "Test1",
+      "author": {
+        "username": "Olga",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Test",
+      "slug": "test-e2wjks",
+      "body": "Test2",
+      "createdAt": "2020-04-23T01:35:04.601Z",
+      "updatedAt": "2020-04-23T01:35:04.601Z",
+      "tagList": [],
+      "description": "Test1",
+      "author": {
+        "username": "Olga",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Test",
+      "slug": "test-hxqn4i",
+      "body": "Test2",
+      "createdAt": "2020-04-23T01:32:39.411Z",
+      "updatedAt": "2020-04-23T01:32:39.411Z",
+      "tagList": [],
+      "description": "Test1",
+      "author": {
+        "username": "Olga",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "test",
+      "slug": "test-wka376",
+      "body": "test",
+      "createdAt": "2020-04-23T01:08:20.560Z",
+      "updatedAt": "2020-04-23T01:08:20.560Z",
+      "tagList": [],
+      "description": "test",
+      "author": {
+        "username": "sanjok",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "s",
+      "slug": "s-zs2lov",
+      "body": "s",
+      "createdAt": "2020-04-23T01:07:06.560Z",
+      "updatedAt": "2020-04-23T01:07:06.560Z",
+      "tagList": [],
+      "description": "s",
+      "author": {
+        "username": "Arturo Llamas",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Hello",
+      "slug": "hello-3emxi9",
+      "body": "# Hello\n\nworld",
+      "createdAt": "2020-04-23T00:30:16.527Z",
+      "updatedAt": "2020-04-23T00:30:16.527Z",
+      "tagList": [],
+      "description": "Hello page",
+      "author": {
+        "username": "vay",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Título do artigo teste",
+      "slug": "titulo-do-artigo-teste-ka929o",
+      "body": "Texto em markdown do arquivo teste",
+      "createdAt": "2020-04-23T00:24:02.292Z",
+      "updatedAt": "2020-04-23T00:24:02.292Z",
+      "tagList": [],
+      "description": "Sobre o que é o arquivo teste",
+      "author": {
+        "username": "esdras",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "sda",
+      "slug": "sda-iucybb",
+      "body": "asdas",
+      "createdAt": "2020-04-22T23:56:40.526Z",
+      "updatedAt": "2020-04-22T23:56:40.526Z",
+      "tagList": [],
+      "description": "dsadasd",
+      "author": {
+        "username": "irony",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    }
+  ],
+  "articlesCount": 500
+}
